@@ -47,5 +47,5 @@ application is pretty fast in what it really needs to do, retrieve movies.
 
 Third Party Information:
 Frameworks: 
-•	SwiftyPlistManager Developed by Rebeloper https://github.com/rebeloper/SwiftyPlistManager
+•SwiftyPlistManager Developed by Rebeloper https://github.com/rebeloper/SwiftyPlistManager
 
