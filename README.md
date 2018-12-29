@@ -1,4 +1,4 @@
-##Movie Tracker App - Final Project for ISTE-454
+Movie Tracker App - Final Project for ISTE-454\n
 A personal movie tracker that allows you to view, manage, and add movies to your list for future viewing or keeping track of which movie you have watched.
 
 Features Implemented:
